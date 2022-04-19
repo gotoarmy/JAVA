@@ -10,10 +10,8 @@ public class str {
 		// TODO Auto-generated method stub
 		Scanner in=new Scanner(System.in);
 	    String input1 = in.next();
-	    reveonlyalpha reve =new reveonlyalpha();
-	    reve.reverse(input1);
-	    
-	    
+	    Deletesamechar de =new Deletesamechar();
+	    System.out.println(de.returnanswer(input1));	    	    
 	    return ;
 	}
 	

@@ -15,7 +15,7 @@ public class Main {
           cob.arrestbitchingguy(lonelyguy);
           // -사람을 상속받은 시민을 형성
           // -인사
-          // -시민들은 징징거림(weeping)을 받아주지않음 weepping 할때마다 class static int zingzing이 증가
+          // -시민들은 징징거림(weeping)을 받아주지않음  할때마다 class static int zingzing이 증가
           // -경찰이 등장 징징거리는 사람을 잡아감,그 결과 시민들이 jail에감.
 	}
 

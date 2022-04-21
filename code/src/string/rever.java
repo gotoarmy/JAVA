@@ -1,19 +1,19 @@
 package string;
 
-import java.util.Scanner;
+
 
 class rever {
 	public void reversestr(String input)
 	{
-		Scanner in =new Scanner(System.in);
-		 int i_input = in.nextInt();
-		 rever rever =new rever(); 
-		 for(int j = 0; j < i_input; j++)
-		 { 
-		 String input1 = in.next();
-		 rever.reversestr(input1);
-		 
-		 }
+//		Scanner in =new Scanner(System.in);
+//		 int i_input = in.nextInt();
+//		 rever rever =new rever(); 
+//		 for(int j = 0; j < i_input; j++)
+//		 { 
+//		 String input1 = in.next();
+//		 rever.reversestr(input1);
+//		 
+//		 }
 		 //¸ŞÀÎ
 		int i=0;
 		int j=0;

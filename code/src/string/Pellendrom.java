@@ -37,10 +37,7 @@ class Pellendrom {
 	    if (count == loopcount) 
 	       { return true; }	
 	    else 
-	     { return false; }
-	    
-	    
-	   
+	     { return false; }     
    }
    
    public String solu(String input)

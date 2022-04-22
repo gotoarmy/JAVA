@@ -8,7 +8,7 @@ public class Strmain {
 		// TODO Auto-generated method stub
 		Scanner in=new Scanner(System.in);
 	    String input1 = in.nextLine();	    
-	    Countpell pell = new Countpell();	    
+	    str_pellendrom pell = new str_pellendrom();	    
 	    System.out.println(pell.solu(input1));	    	    
 	    return ;
 	}

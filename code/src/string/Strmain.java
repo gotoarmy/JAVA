@@ -7,10 +7,11 @@ public class Strmain {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner in=new Scanner(System.in);
-	    String input1 = in.nextLine();
-	    input1+="0";
-	    Stringcompress comp = new Stringcompress();
-	    comp.solu(input1);	    
+		int i_input =in.nextInt();
+	    String s_input1 = in.next();
+	    s_input1 +='/';
+	    Sendingcode solve =new Sendingcode();
+	    solve.solu(s_input1);
 	    return ;
 	}
 
